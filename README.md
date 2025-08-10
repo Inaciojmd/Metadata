@@ -42,7 +42,7 @@ python3 metadata.py
   source venv/bin/activate
 ```
 
-### 1. Install Python Dependencies
+# Install Python Dependencies
 Requires **Python 3.8+**:
 ```bash
 pip install -r requirements.txt
