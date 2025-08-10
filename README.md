@@ -28,7 +28,19 @@ It uses a **multi-stage cleaning process**, cryptographic filename randomization
 ---
 
 ## 📦 Installation
+# MacOs
+```bash
+Install ExifTool
+brew install exiftool
 
+Install FFmpeg
+brew install ffmpeg
+```
+# Linux
+```bash
+sudo apt update
+sudo apt install libimage-exiftool-perl ffmpeg -y
+```
  📂 Clone the Repository
 ```bash
 git clone https://github.com/Inaciojms/Metadata.git
