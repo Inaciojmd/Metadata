@@ -1,0 +1,7 @@
+piexif
+pillow
+mutagen
+ffmpeg-python
+pyexiftool
+cryptography
+colorama
