@@ -1,22 +1,54 @@
-# Metadata
-
-# Metadata Destroyer v2.0
 
 ![Banner Preview](https://i.imgur.com/example.png)  
 *Military-Grade Digital Privacy Tool*
 
-## 📌 Features
-- **Multi-Format Support**: Images (JPEG/PNG), Videos (MP4/MKV/AVI), Audio (MP3/FLAC/WAV)
-- **Military-Grade Cleaning**: 3-pass metadata removal
-- **Secure Processing**: Temp file isolation + secure overwrite
-- **Batch Processing**: Parallel file handling
-- **Verification System**: Post-cleaning validation
+# 🛡️ Metadata Destroyer v2.0
 
-## 🛠 Installation
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Security](https://img.shields.io/badge/Security-Military--Grade-red)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+
+**Metadata Destroyer** is a **military-grade metadata cleaner** that removes sensitive metadata from **images, videos, and audio** files securely and irreversibly.  
+It uses a **multi-stage cleaning process**, cryptographic filename randomization, and secure overwrite to ensure data cannot be recovered.
+
+---
+
+## ✨ Features
+- **Multi-Stage Cleaning**:
+  - Images → Removes EXIF, XMP, ICC, IPTC metadata
+  - Audio → Removes ID3, XMP, RIFF tags
+  - Video → Removes QuickTime, EXIF, and other embedded metadata
+- Secure Overwrite — Original files are destroyed after cleaning
+- Cryptographic Random Filename Generator
+- Parallel Processing** for bulk cleaning
+- Military-Grade Verification with ExifTool and FFmpeg
+- Cross-Platform — Works on Windows, Linux, and macOS
+
+---
+
+## 📦 Installation
+
+ 📂 Clone the Repository
 ```bash
-# Install dependencies
-sudo apt install ffmpeg exiftool -y  # Linux
-brew install ffmpeg exiftool        # macOS
+git clone https://github.com/Inaciojms/Metadata.git
+cd metadata
+python3 metadata.py
+```
 
-# Python packages
-pip install pillow piexif mutagen ffmpeg-python pyexiftool colorama cryptography
+🏗️ Create a Virtual Environment
+```bash
+  python3 -m venv venv
+  source venv/bin/activate
+```
+
+### 1. Install Python Dependencies
+Requires **Python 3.8+**:
+```bash
+pip install -r requirements.txt
+```
+
+
+
+
+
