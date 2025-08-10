@@ -1,8 +1,8 @@
 
-![Banner Preview](https://i.imgur.com/example.png)  
-*Military-Grade Digital Privacy Tool*
+![Banner Preview](https://i.ibb.co/23tvfdWY/111.png)  
 
-# 🛡️ Metadata Destroyer v2.0
+
+# 🛡️ Metadata Destroyer v1.0
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
