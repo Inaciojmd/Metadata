@@ -1,5 +1,5 @@
 
-![Banner Preview](https://i.ibb.co/23tvfdWY/111.png)  
+![Banner Preview](https://i.ibb.co/Pzz9NWx9/12.png)  
 
 
 # 🛡️ Metadata Destroyer v1.0
