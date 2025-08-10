@@ -21,7 +21,7 @@ It uses a **multi-stage cleaning process**, cryptographic filename randomization
   - Video → Removes QuickTime, EXIF, and other embedded metadata
 - Secure Overwrite — Original files are destroyed after cleaning
 - Cryptographic Random Filename Generator
-- Parallel Processing** for bulk cleaning
+- Parallel Processing for bulk cleaning
 - Military-Grade Verification with ExifTool and FFmpeg
 - Cross-Platform — Works on Windows, Linux, and macOS
 
