@@ -32,7 +32,7 @@ It uses a **multi-stage cleaning process**, cryptographic filename randomization
  📂 Clone the Repository
 ```bash
 git clone https://github.com/Inaciojms/Metadata.git
-cd metadata
+cd Metadata
 python3 metadata.py
 ```
 
